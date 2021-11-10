@@ -21,24 +21,24 @@ The 'ebay-dl.py' file does the following:
 3. writes the JSON file for the search term
 
 To get a JSON file for any search term, run the following command in the terminal:
-'
-python ebay-dl.py 'search term'
-'
+<pre><code>python3 ebay-dl.py 'search term'
+</code></pre>
 
 To get the three JSON files I produced, run the following commands in the terminal:
-'
-python ebay-dl.py 'phone case'
-'
+
+<pre><code>python3 ebay-dl.py 'phone case'
+</code></pre>
+
 This will produce the [phone case.json](https://github.com/leynahong/HW_03/blob/main/phone%20case.json) file.
 
-'
-python ebay-dl.py 'masks'
-'
+<pre><code>python3 ebay-dl.py 'masks'
+</code></pre>
+
 This will produce the [masks.json](https://github.com/leynahong/HW_03/blob/main/masks.json) file.
 
-'
-python ebay-dl.py 'mug'
-'
+<pre><code>python3 ebay-dl.py 'mug'
+</code></pre>
+
 This will produce the [mug.json](https://github.com/leynahong/HW_03/blob/main/mug.json) file.
 
 ---
